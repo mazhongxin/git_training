@@ -1,0 +1,4 @@
+﻿git branch 
+查看当前有哪些分支
+git branch mazhongxin  新建一个名为mazhongixn的分支
+git branch -b mazhongxin 新建一个名为mazhongxin的分支，并且切换到这个分支
